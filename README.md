@@ -119,7 +119,7 @@
 
 </tr>
 <td> NUTRITION</td>
-<td> 85</td>
-<td> B+</td>
+<td> 97</td>
+<td> A+</td>
 <td> CAAFIMAAD</td>
 <tr>
